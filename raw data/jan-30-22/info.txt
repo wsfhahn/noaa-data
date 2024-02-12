@@ -1,0 +1,2 @@
+NOAA-19 pass started at 19:07:49 on January 30, rising over the horizon 
+164.1º SSE. Reached peak inclination of 88.3º at 19:15:44. Descended below horizon at 19:23:43 347.1º NNW. Observations made at 35.989384º, -78.992610º. Possible sources of interference include a cellular tower located at 35.987582º, -78.994505º. Utility vehicles near receiver.

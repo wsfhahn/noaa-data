@@ -1,0 +1,1 @@
+NOAA-15 rise began at 19:13:24 on February 13 166.6º SSE. Reached peak elevation 85.7º at 19:20:58. Dropped below horizon at 19:28:40 346.9º NNW. Receiver placed at 36.007921º, -78.982764º. Tree cover about 20 meters east. Possible sources of radio interference include a nearby house and passing aircraft departing from/arriving to RDU.
